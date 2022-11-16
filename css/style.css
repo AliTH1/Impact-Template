@@ -9,6 +9,13 @@
     background-color: rgb(6, 126, 76);
 }
 
+@media screen and (max-width: 770px) {
+  .amain {
+    height: 920px;
+  }
+}
+
+
 .ahead{
     min-height: 35px;
 }
